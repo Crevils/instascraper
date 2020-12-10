@@ -1,0 +1,7 @@
+instaloader
+certifi
+chardet
+idna
+requests
+urllib3
+notify_run
